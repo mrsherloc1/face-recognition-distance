@@ -28,13 +28,7 @@ pip install opencv-python deepface scikit-learn numpy
 
 ---
 
-Got it 👍 I’ll adjust the README so it doesn’t sound rushed, and I’ll add the points about:
 
-* Errors showing up during testing (not because it was rushed).
-* Possible mistaken recognition if multiple faces are in the dataset.
-* Making it clear that the **`Images/` folder must exist on your laptop**.
-
-Here’s the updated version of those sections:
 
 ---
 
